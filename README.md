@@ -27,7 +27,7 @@ Work in pairs to complete the following table:
 | “20”                  |  20      |    20      |   ture    |
 | “Twenty”              |  NaN     | Twenty     |   ture    |
 | null                  |   0      |   null     |   false   |
-| undefinited           |   NaN     undefinited |    false  |
+| undefinited           |   NaN    |undefinited |   false   |
 
 
 ## Part 2:  New contender
